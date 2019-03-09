@@ -9,6 +9,7 @@ public class Hellogit {
 
 		System.out.println("Hello GIT - MODIFICADO NO ECLIPSE...");
 
+		System.out.println("Olá mundo !");
 	}
 
 }
